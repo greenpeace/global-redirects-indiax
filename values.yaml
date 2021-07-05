@@ -11,3 +11,8 @@ openresty:
     license: ""
   cloudflare:
     enabled: false
+
+nginxingress:
+  name: global-brb-static-nginx2
+  tls: true
+ 
