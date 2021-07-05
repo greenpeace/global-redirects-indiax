@@ -2,6 +2,6 @@
 hostname: brb.p4.greenpeace.org
 ingress:
   hosts:
-    - name: indiax.p4.greenpeace.org
+    - name: nginx.jencub.xyz
 image:
   tag: develop
