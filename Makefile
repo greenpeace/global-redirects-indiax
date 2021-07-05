@@ -85,7 +85,7 @@ endif
 	@helm upgrade --install --force --wait $(RELEASE_NAME) $(CHART_NAME) \
 		--namespace=$(NAMESPACE) \
 		--values values.yaml \
-		--version "$(CHART_VERSION)"
+		--version "$(CHART_VERSION)" \
 		--values env/dev/values.yaml \
 		--set openresty.geoip.accountid=$(GEOIP_ACCOUNTID) \
 		--set openresty.geoip.license=$(GEOIP_LICENSE)
