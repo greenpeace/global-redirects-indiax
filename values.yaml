@@ -16,3 +16,5 @@ nginxingress:
   name: global-brb-static-nginx2
   tls:
     secretName: global-brb-static-nginx2
+    hosts:
+      name: nginx.jencub.xyz
