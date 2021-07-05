@@ -14,4 +14,5 @@ openresty:
 
 nginxingress:
   name: global-brb-static-nginx2
-  tls: true
+  tls:
+    secretName: global-brb-static-nginx2
