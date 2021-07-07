@@ -6,5 +6,8 @@ ingress:
 nginxingress:
   hosts:
     - name: nginx.jencub.xyz
+      tls: true
+    - name: brb-nginx.greenpeace.org
+      tls: true
 image:
   tag: develop
