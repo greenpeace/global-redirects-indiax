@@ -1,4 +1,8 @@
-# global-redirects-brb
+[![Greenpeace](https://circleci.com/gh/greenpeace/global-redirects-brb.svg?style=shield)](https://circleci.com/gh/greenpeace/global-redirects-brb)
+
+![Planet4](./p4logo.png)
+
+# P4 Global Redirects - Be Right Back Test Page
 
 This repo hosts a static page that provides a generic "Page Unavailable" message.  
 
