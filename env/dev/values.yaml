@@ -1,0 +1,13 @@
+---
+hostname: brb.p4.greenpeace.org
+ingress:
+  hosts:
+    - name: nginx.jencub.xyz
+nginxingress:
+  hosts:
+    - name: nginx.jencub.xyz
+      tls: true
+    - name: brb-nginx.greenpeace.org
+      tls: true
+image:
+  tag: develop
