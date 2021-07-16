@@ -8,7 +8,7 @@ This repo hosts a static page that provides a generic "Page Unavailable" message
 
 There are 2 options to using this repo:
 
-1.  Redirect to generic "be right back" page found here:  https://brb.p4.greenpeace.org/index.html
+1.  Redirect to generic "be right back" page found here:  https://brb.p4.greenpeace.org/
 
 	a.  Redirect your domain to this URL as a CNAME
 
